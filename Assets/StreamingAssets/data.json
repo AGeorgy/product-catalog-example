@@ -1,0 +1,21 @@
+{"Entries":
+[
+  {"Type":"Bundle","Item":[3,2,2],"Amount":[1,2,3],"Name":"SuperBundle1","Description":"Descr1","Price":50},
+  {"Type":"Bundle","Item":[3,1,2],"Amount":[2,2,2],"Name":"SuperBundle2","Description":"Descr2","Price":150},
+  {"Type":"Bundle","Item":[3,1,1],"Amount":[3,3,3],"Name":"SuperBundle3","Description":"Descr3","Price":250},
+  {"Type":"Bundle","Item":[1,1,1],"Amount":[1,1,1],"Name":"SuperBundle4","Description":"Descr4","Price":350},
+  {"Type":"Bundle","Item":[1,2,2],"Amount":[4,4,4],"Name":"SuperBundle5","Description":"Descr5","Price":450},
+  {"Type":"Bundle","Item":[1,2,3],"Amount":[5,5,5],"Name":"SuperBundle6","Description":"Descr6","Price":550},
+  {"Type":"Bundle","Item":[1,3,3],"Amount":[6,6,6],"Name":"SuperBundle7","Description":"Descr7","Price":650},
+  {"Type":"Bundle","Item":[2,1,1],"Amount":[7,7,7],"Name":"SuperBundle8","Description":"Descr8","Price":750},
+  {"Type":"Bundle","Item":[2,2,2],"Amount":[8,8,8],"Name":"SuperBundle9","Description":"Descr9","Price":850},
+  {"Type":"Bundle","Item":[2,2,3],"Amount":[1,1,1],"Name":"SuperBundle10","Description":"Descr10","Price":950},
+  {"Type":"Bundle","Item":[2,3,3],"Amount":[2,2,2],"Name":"SuperBundle11","Description":"Descr11","Price":1050},
+  {"Type":"Bundle","Item":[2,3,2],"Amount":[3,3,3],"Name":"SuperBundle12","Description":"Descr11","Price":1150},
+  {"Type":"Product","Item":[1],"Amount":[1],"Name":"SuperProduct1","Description":"Descr1","Price":50},
+  {"Type":"Product","Item":[2],"Amount":[2],"Name":"SuperProduct2","Description":"Descr2","Price":150},
+  {"Type":"Product","Item":[3],"Amount":[3],"Name":"SuperProduct3","Description":"Descr3","Price":250},
+  {"Type":"Product","Item":[1],"Amount":[3],"Name":"SuperProduct4","Description":"Descr4","Price":350},
+  {"Type":"Product","Item":[2],"Amount":[3],"Name":"SuperProduct5","Description":"Descr5","Price":450},
+  {"Type":"Product","Item":[3],"Amount":[2],"Name":"SuperProduct6","Description":"Descr6","Price":550}
+]}
