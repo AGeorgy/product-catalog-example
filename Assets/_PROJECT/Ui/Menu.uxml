@@ -1,0 +1,15 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="width: 100%; height: 100%;">
+        <ui:VisualElement style="background-color: rgb(157, 166, 250); height: auto; flex-direction: row; margin-top: 0; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px; justify-content: flex-start; flex-wrap: wrap; align-items: stretch; width: auto; flex-grow: 0; flex-shrink: 1;">
+            <ui:Button text="SortByPrice" display-tooltip-when-elided="true" name="SortByPrice" />
+            <ui:Button text="SortByName" display-tooltip-when-elided="true" name="SortByName" />
+            <ui:Button text="SortByItems" display-tooltip-when-elided="true" name="SortByItems" />
+            <ui:Button text="SortByItems2" display-tooltip-when-elided="true" name="SortByItems2" />
+            <ui:Button text="Filter By Price" display-tooltip-when-elided="true" name="FilterByPrice" style="white-space: normal; -unity-text-align: middle-center;" />
+            <ui:Button text="FilterByCoinsAndTickets" display-tooltip-when-elided="true" name="FilterByCoinsAndTickets" />
+            <ui:Button text="FilterByCoinsOrTickets" display-tooltip-when-elided="true" name="FilterByCoinsOrTickets" />
+            <ui:Button text="FilterByPrice50_150" display-tooltip-when-elided="true" name="FilterByPrice50_150" />
+        </ui:VisualElement>
+        <ui:ListView focusable="true" name="Scroll" item-height="135" selection-type="None" show-border="true" style="background-color: rgb(255, 255, 255); flex-wrap: wrap; justify-content: flex-start; align-items: stretch; flex-shrink: 0; flex-grow: 1;" />
+    </ui:VisualElement>
+</ui:UXML>
